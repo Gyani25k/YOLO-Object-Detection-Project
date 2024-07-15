@@ -4,7 +4,7 @@
 Object detection is a technique used in computer vision for the identification and localization of objects within an image or a video. It not only classifies objects within an image but also draws bounding boxes around the objects to indicate their positions.
 
 ## Example Image
-![Example Image](./image/object_detection.jpg)
+![Example Image](./images/object_detection.jpg)
 
 ## About YOLO
 You Only Look Once (YOLO) is a state-of-the-art, real-time object detection algorithm introduced in 2015 by Joseph Redmon, Santosh Divvala, Ross Girshick, and Ali Farhadi in their famous research paper “You Only Look Once: Unified, Real-Time Object Detection”.
@@ -13,7 +13,7 @@ You Only Look Once (YOLO) is a state-of-the-art, real-time object detection algo
 
 YOLO architecture is similar to GoogleNet. As illustrated below, it has overall 24 convolutional layers, four max-pooling layers, and two fully connected layers.
 
-![YOLO Architecture](./image/yolo_architecture.jpg)
+![YOLO Architecture](./images/yolo_architecture.png)
 
 The architecture works as follows:
 
